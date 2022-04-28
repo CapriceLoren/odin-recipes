@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&family=Shadows+Into+Light&display=swap');
+
+h1 {
+    font-family: 'Satisfy', cursive;
+}
+
+ul {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 25px;
+}
+
+a {
+    transition: background-color 4s;
+    color: black;
+}
+
+a:visited {
+    color: gray;
+}
+
+a:hover {
+    background-color: rgb(136, 177, 141);
+}
